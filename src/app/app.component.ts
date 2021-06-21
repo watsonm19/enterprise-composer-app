@@ -19,5 +19,5 @@ import { Component } from '@angular/core';
 
 // main app component
 export class AppComponent {
-  assignment: string = 'Assignment 4.4 - Async Pipe';
+  title: string = 'ComposerApp';
 }
